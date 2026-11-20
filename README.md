@@ -1,16 +1,31 @@
-# React + Vite
+La economía del entretenimiento: Netflix y tendencias globales
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Nombre del equipo
 
-Currently, two official plugins are available:
+Equipo Umizoomi
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Integrantes
 
-## React Compiler
+Alondra Lissette García García — Matrícula: 230300987
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Emily Ashanti May Alemán — Matrícula: 230300964
 
-## Expanding the ESLint configuration
+Programa educativo: Ingeniería en Datos e Inteligencia Organizacional
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Asignatura: Visualización de Datos
+
+Descripción del proyecto
+
+Este proyecto consiste en el desarrollo de un dashboard interactivo táctico en React enfocado en analizar el catálogo de Netflix a partir del dataset Netflix Movies and TV Shows (Kaggle).
+
+El objetivo es facilitar la exploración visual de tendencias globales en la industria del entretenimiento digital mediante consultas, filtros y comparativas sobre:
+
+Países de producción y distribución geográfica.
+
+Géneros y categorías con mayor presencia.
+
+Comparativa entre películas y series.
+
+Evolución de lanzamientos por año y fechas de incorporación al catálogo.
+
+Directores con mayor número de títulos registrados.
