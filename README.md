@@ -4,7 +4,7 @@ Explorando patrones, catálogos y dinámicas de la industria del entretenimiento
 
 👥 Equipo
 
-Nombre del equipo: [Agrega aquí el nombre de tu equipo]
+Nombre del equipo: umizoomi
 
 Programa: Ingeniería en Datos e Inteligencia Organizacional
 
