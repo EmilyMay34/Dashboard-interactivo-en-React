@@ -1,31 +1,33 @@
-La economía del entretenimiento: Netflix y tendencias globales
+🎬 La economía del entretenimiento: Netflix y tendencias globales
 
-Nombre del equipo
+Explorando patrones, catálogos y dinámicas de la industria del entretenimiento digital a través de visualización de datos.
 
-Equipo Umizoomi
+👥 Equipo
 
-Integrantes
+Nombre del equipo: [Agrega aquí el nombre de tu equipo]
 
-Alondra Lissette García García — Matrícula: 230300987
-
-Emily Ashanti May Alemán — Matrícula: 230300964
-
-Programa educativo: Ingeniería en Datos e Inteligencia Organizacional
+Programa: Ingeniería en Datos e Inteligencia Organizacional
 
 Asignatura: Visualización de Datos
 
-Descripción del proyecto
+Integrantes
 
-Este proyecto consiste en el desarrollo de un dashboard interactivo táctico en React enfocado en analizar el catálogo de Netflix a partir del dataset Netflix Movies and TV Shows (Kaggle).
+Alondra Lissette García García — 230300987
 
-El objetivo es facilitar la exploración visual de tendencias globales en la industria del entretenimiento digital mediante consultas, filtros y comparativas sobre:
+Emily Ashanti May Alemán — 230300964
 
-Países de producción y distribución geográfica.
+📌 Descripción del proyecto
 
-Géneros y categorías con mayor presencia.
+Este proyecto busca desarrollar un dashboard táctico interactivo en React para analizar el catálogo de Netflix a partir del dataset Netflix Movies and TV Shows (Kaggle), facilitando la detección de tendencias globales sin perderse en tablas extensas.
 
-Comparativa entre películas y series.
+🔍 ¿Qué podrás explorar?
 
-Evolución de lanzamientos por año y fechas de incorporación al catálogo.
+🌍 Distribución geográfica: Países con mayor producción y presencia de títulos.
 
-Directores con mayor número de títulos registrados.
+🎭 Géneros y categorías: Contenidos y temáticas con mayor peso en el catálogo.
+
+🎞️ Películas vs. Series: Comparativas entre formatos y evolución temporal.
+
+📅 Lanzamientos e incorporaciones: Comportamiento histórico por año de estreno y fecha en plataforma.
+
+🎥 Directores destacados: Creadores con mayor volumen de títulos registrados.
