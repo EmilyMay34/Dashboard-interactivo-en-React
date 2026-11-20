@@ -6,7 +6,7 @@ Explorando patrones, catálogos y dinámicas de la industria del entretenimiento
 
 Nombre del equipo: umizoomi
 
-Programa: Ingeniería en Datos e Inteligencia Organizacional
+Programa: IDEIO
 
 Asignatura: Visualización de Datos
 
